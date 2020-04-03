@@ -4,8 +4,13 @@ Texture pack for Java Minecraft, replacing all double slabs with a custom textur
 # TABLE
 
 Block               |Double slab
+
 ____________________|_____________________
+
 Planks              |Vertical Planks
+
 Polished Stones     |Large Bricks
+
 Unpolished Stones   |Small Bricks
+
 Cut Sandstones      |Large Bricks
