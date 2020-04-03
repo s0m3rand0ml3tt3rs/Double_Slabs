@@ -1,16 +1,16 @@
 # Double_Slabs
-Texture pack for Java Minecraft, replacing all double slabs with a custom texture. Currently built for Java 1.15.2. See licencse for what you can and can't do with this texture pack. See version history for the version history of this texture pack. 
+Texture pack for Java Minecraft, replacing all double slabs with a custom texture. To use once installed, simply place a bottom and top slab of the same type in the same block and it will produce the texture stated below. Currently built for Java 1.15.2. See licencse for what you can and can't do with this texture pack. See below for the version history of this texture pack. 
 
-# TABLE
+# What turns into what?
 
-Block               |Double slab
+Block==>Double slab
 
-____________________|_____________________
+Planks==>Vertical Planks
 
-Planks              |Vertical Planks
+# Changelog
 
-Polished Stones     |Large Bricks
+v0.0
 
-Unpolished Stones   |Small Bricks
+Created pack.
 
-Cut Sandstones      |Large Bricks
+v0.1 Added vertical plank textures.
