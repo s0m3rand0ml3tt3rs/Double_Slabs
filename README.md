@@ -3,9 +3,15 @@ Texture pack for Java Minecraft, replacing all double slabs with a custom textur
 
 # What turns into what?
 
-Block==>Double slab
+Slab==>Double slab
 
 Planks==>Vertical Planks
+
+Sandstones==>Small Bricks
+
+Cut Sandstones=>Large Bricks
+
+Smooth Sandstones=>Pillar
 
 # Changelog
 
@@ -24,3 +30,7 @@ Attempted to fix issue with some planks not showing
 v0.1.2
 
 Issue fixed, all planks showing.
+
+v0.2
+
+Added textures for sandstone and red sandstone
