@@ -13,4 +13,14 @@ v0.0
 
 Created pack.
 
-v0.1 Added vertical plank textures.
+v0.1 [BROKEN, DO NOT USE]
+
+Added vertical plank textures.
+
+v0.1.1 [BROKEN, DO NOT USE] 
+
+Attempted to fix issue with some planks not showing
+
+v0.1.2
+
+Issue fixed, all planks showing.
