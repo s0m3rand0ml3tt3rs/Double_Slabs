@@ -13,6 +13,10 @@ Cut Sandstones=>Large Bricks
 
 Smooth Sandstones=>Pillar
 
+Quartz==>Small Bricks
+
+Smooth Quartz==>Big Bricks
+
 # Changelog
 
 v0.0
@@ -34,3 +38,11 @@ Issue fixed, all planks showing.
 v0.2
 
 Added textures for sandstone and red sandstone
+
+v0.2.1
+
+Changed textures for sandstone and red sandstone bricks
+
+v0.3
+
+Added quartz and smooth quartz double slab
